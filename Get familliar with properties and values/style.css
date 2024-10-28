@@ -1,0 +1,14 @@
+/* global CSS*/
+*{
+    font-size: 30px;
+    font-weight: 500;
+}
+/* External CSS */
+h3{
+    color: blueviolet;
+}
+
+/* group selector */
+h5,h4{
+    color: cyan;
+}
